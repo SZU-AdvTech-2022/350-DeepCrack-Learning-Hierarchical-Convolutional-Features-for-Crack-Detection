@@ -1,0 +1,9 @@
+@article{REPO-351,
+    author = "Zou, Qin and Zhang, Zheng and Li, Qingquan and Qi, Xianbiao and Wang, Qian and Wang, Song",
+    journal = "IEEE Transactions on Image Processing",
+    number = "3",
+    pages = "1498-1512",
+    title = "{DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection}",
+    volume = "28",
+    year = "2019"
+}
