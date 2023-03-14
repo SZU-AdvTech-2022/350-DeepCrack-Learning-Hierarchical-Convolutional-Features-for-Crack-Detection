@@ -1,4 +1,4 @@
-@article{REPO-351,
+@article{REPO-350,
     author = "Zou, Qin and Zhang, Zheng and Li, Qingquan and Qi, Xianbiao and Wang, Qian and Wang, Song",
     journal = "IEEE Transactions on Image Processing",
     number = "3",
